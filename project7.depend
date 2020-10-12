@@ -1,0 +1,444 @@
+# depslib dependency file v1.0
+1561300133 source:e:\rohan\project\new folder (14)\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"AdminLogin.cpp"
+
+1560515082 e:\rohan\project\new folder (14)\project7\include\includefiles.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<cctype>
+	<fstream>
+	<string.h>
+	<process.h>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1560608505 e:\rohan\project\new folder (14)\project7\include\backupandrestore.h
+	"includefiles.h"
+
+1560752296 e:\rohan\project\new folder (14)\project7\adminlogin.cpp
+	"includefiles.h"
+
+1560752296 source:e:\rohan\project\new folder (14)\project7\adminlogin.cpp
+	"includefiles.h"
+
+1561436576 source:e:\rohan\project\new folder (14)\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1561384971 e:\rohan\project\new folder (14)\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1561384971 source:e:\rohan\project\new folder (14)\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1561273315 source:e:\rohan\project\new folder (14)\project7\customerdetails.cpp
+	"includefiles.h"
+
+1561040608 source:e:\rohan\project\new folder (14)\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560866483 source:e:\rohan\project\new folder (14)\project7\demo.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561023952 source:e:\rohan\project\new folder (14)\project7\discount.cpp
+	"includefiles.h"
+
+1561436713 source:e:\rohan\project\new folder (14)\project7\main.cpp
+	"Admin.cpp"
+	"DeliveryBoy.cpp"
+	"pizzaorder.cpp"
+	"startup.h"
+	"Furniture.h"
+	"includefiles.h"
+
+1561300133 e:\rohan\project\new folder (14)\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"AdminLogin.cpp"
+
+1561040608 e:\rohan\project\new folder (14)\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561438616 e:\rohan\project\new folder (14)\project7\pizzaorder.cpp
+	"includefiles.h"
+	"RawProduct.cpp"
+	"CashierDetails.cpp"
+	"MenuSideProduct.cpp"
+	"MenuPizzaProduct.cpp"
+
+1561436576 e:\rohan\project\new folder (14)\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1560859097 e:\rohan\project\new folder (14)\project7\rawproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560786133 e:\rohan\project\new folder (14)\project7\menusideproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561438596 e:\rohan\project\new folder (14)\project7\menupizzaproduct.cpp
+	"includefiles.h"
+	"CustomerDetails.cpp"
+	"discount.cpp"
+
+1561273315 e:\rohan\project\new folder (14)\project7\customerdetails.cpp
+	"includefiles.h"
+
+1561023952 e:\rohan\project\new folder (14)\project7\discount.cpp
+	"includefiles.h"
+
+1560515084 e:\rohan\project\new folder (14)\project7\include\startup.h
+	"includefiles.h"
+
+1560607598 e:\rohan\project\new folder (14)\project7\include\furniture.h
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561438596 source:e:\rohan\project\new folder (14)\project7\menupizzaproduct.cpp
+	"includefiles.h"
+	"CustomerDetails.cpp"
+	"discount.cpp"
+
+1560786133 source:e:\rohan\project\new folder (14)\project7\menusideproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561438616 source:e:\rohan\project\new folder (14)\project7\pizzaorder.cpp
+	"includefiles.h"
+	"RawProduct.cpp"
+	"CashierDetails.cpp"
+	"MenuSideProduct.cpp"
+	"MenuPizzaProduct.cpp"
+
+1560859097 source:e:\rohan\project\new folder (14)\project7\rawproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560515084 source:e:\rohan\project\new folder (14)\project7\src\backupandrestore.cpp
+	"backupandrestore.h"
+
+1560515084 source:e:\rohan\project\new folder (14)\project7\src\furniture.cpp
+	"Furniture.h"
+
+1560515084 source:e:\rohan\project\new folder (14)\project7\src\includefiles.cpp
+	"includefiles.h"
+
+1560515085 source:e:\rohan\project\new folder (14)\project7\src\loginone.cpp
+	"loginone.h"
+
+1560515083 e:\rohan\project\new folder (14)\project7\include\loginone.h
+
+1560859178 source:e:\rohan\project\new folder (14)\project7\src\startup.cpp
+	"startup.h"
+
+1561300133 source:c:\users\rohan\google drive\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"AdminLogin.cpp"
+
+1560515082 c:\users\rohan\google drive\project7\include\includefiles.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<cctype>
+	<fstream>
+	<string.h>
+	<process.h>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1560608505 c:\users\rohan\google drive\project7\include\backupandrestore.h
+	"includefiles.h"
+
+1560752296 c:\users\rohan\google drive\project7\adminlogin.cpp
+	"includefiles.h"
+
+1560752296 source:c:\users\rohan\google drive\project7\adminlogin.cpp
+	"includefiles.h"
+
+1561441977 source:c:\users\rohan\google drive\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1561384971 c:\users\rohan\google drive\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1561384971 source:c:\users\rohan\google drive\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1561273315 source:c:\users\rohan\google drive\project7\customerdetails.cpp
+	"includefiles.h"
+
+1561040608 source:c:\users\rohan\google drive\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560866483 source:c:\users\rohan\google drive\project7\demo.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561023952 source:c:\users\rohan\google drive\project7\discount.cpp
+	"includefiles.h"
+
+1561472449 source:c:\users\rohan\google drive\project7\main.cpp
+	"Admin.cpp"
+	"DeliveryBoy.cpp"
+	"pizzaorder.cpp"
+	"startup.h"
+	"Furniture.h"
+	"includefiles.h"
+
+1561300133 c:\users\rohan\google drive\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"AdminLogin.cpp"
+
+1561040608 c:\users\rohan\google drive\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561438616 c:\users\rohan\google drive\project7\pizzaorder.cpp
+	"includefiles.h"
+	"RawProduct.cpp"
+	"CashierDetails.cpp"
+	"MenuSideProduct.cpp"
+	"MenuPizzaProduct.cpp"
+
+1560859097 c:\users\rohan\google drive\project7\rawproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561441977 c:\users\rohan\google drive\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1560786133 c:\users\rohan\google drive\project7\menusideproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561471895 c:\users\rohan\google drive\project7\menupizzaproduct.cpp
+	"includefiles.h"
+	"CustomerDetails.cpp"
+	"discount.cpp"
+
+1561273315 c:\users\rohan\google drive\project7\customerdetails.cpp
+	"includefiles.h"
+
+1561023952 c:\users\rohan\google drive\project7\discount.cpp
+	"includefiles.h"
+
+1560515084 c:\users\rohan\google drive\project7\include\startup.h
+	"includefiles.h"
+
+1560607598 c:\users\rohan\google drive\project7\include\furniture.h
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561471895 source:c:\users\rohan\google drive\project7\menupizzaproduct.cpp
+	"includefiles.h"
+	"CustomerDetails.cpp"
+	"discount.cpp"
+
+1560786133 source:c:\users\rohan\google drive\project7\menusideproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561438616 source:c:\users\rohan\google drive\project7\pizzaorder.cpp
+	"includefiles.h"
+	"RawProduct.cpp"
+	"CashierDetails.cpp"
+	"MenuSideProduct.cpp"
+	"MenuPizzaProduct.cpp"
+
+1560859097 source:c:\users\rohan\google drive\project7\rawproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560515084 source:c:\users\rohan\google drive\project7\src\backupandrestore.cpp
+	"backupandrestore.h"
+
+1560515084 source:c:\users\rohan\google drive\project7\src\furniture.cpp
+	"Furniture.h"
+
+1560515084 source:c:\users\rohan\google drive\project7\src\includefiles.cpp
+	"includefiles.h"
+
+1560515085 source:c:\users\rohan\google drive\project7\src\loginone.cpp
+	"loginone.h"
+
+1560515083 c:\users\rohan\google drive\project7\include\loginone.h
+
+1560859178 source:c:\users\rohan\google drive\project7\src\startup.cpp
+	"startup.h"
+
+1561300133 source:e:\smsotp\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"AdminLogin.cpp"
+
+1560515082 e:\smsotp\project7\include\includefiles.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<cctype>
+	<fstream>
+	<string.h>
+	<process.h>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1560608505 e:\smsotp\project7\include\backupandrestore.h
+	"includefiles.h"
+
+1560752296 e:\smsotp\project7\adminlogin.cpp
+	"includefiles.h"
+
+1560752296 source:e:\smsotp\project7\adminlogin.cpp
+	"includefiles.h"
+
+1561441977 source:e:\smsotp\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1561384971 e:\smsotp\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1561384971 source:e:\smsotp\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1561273315 source:e:\smsotp\project7\customerdetails.cpp
+	"includefiles.h"
+
+1561040608 source:e:\smsotp\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561023952 source:e:\smsotp\project7\discount.cpp
+	"includefiles.h"
+
+1561471895 source:e:\smsotp\project7\menupizzaproduct.cpp
+	"includefiles.h"
+	"CustomerDetails.cpp"
+	"discount.cpp"
+
+1561273315 e:\smsotp\project7\customerdetails.cpp
+	"includefiles.h"
+
+1561023952 e:\smsotp\project7\discount.cpp
+	"includefiles.h"
+
+1560786133 source:e:\smsotp\project7\menusideproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561438616 source:e:\smsotp\project7\pizzaorder.cpp
+	"includefiles.h"
+	"RawProduct.cpp"
+	"CashierDetails.cpp"
+	"MenuSideProduct.cpp"
+	"MenuPizzaProduct.cpp"
+
+1560859097 e:\smsotp\project7\rawproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561441977 e:\smsotp\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1560786133 e:\smsotp\project7\menusideproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561471895 e:\smsotp\project7\menupizzaproduct.cpp
+	"includefiles.h"
+	"CustomerDetails.cpp"
+	"discount.cpp"
+
+1560859097 source:e:\smsotp\project7\rawproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560515084 source:e:\smsotp\project7\src\backupandrestore.cpp
+	"backupandrestore.h"
+
+1560515084 source:e:\smsotp\project7\src\furniture.cpp
+	"Furniture.h"
+
+1560607598 e:\smsotp\project7\include\furniture.h
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560515084 source:e:\smsotp\project7\src\includefiles.cpp
+	"includefiles.h"
+
+1560515085 source:e:\smsotp\project7\src\loginone.cpp
+	"loginone.h"
+
+1560515083 e:\smsotp\project7\include\loginone.h
+
+1560859178 source:e:\smsotp\project7\src\startup.cpp
+	"startup.h"
+
+1560515084 e:\smsotp\project7\include\startup.h
+	"includefiles.h"
+
+1561472737 source:e:\smsotp\project7\main.cpp
+	"Admin.cpp"
+	"DeliveryBoy.cpp"
+	"pizzaorder.cpp"
+	"startup.h"
+	"Furniture.h"
+	"includefiles.h"
+
+1561300133 e:\smsotp\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"AdminLogin.cpp"
+
+1561040608 e:\smsotp\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1561438616 e:\smsotp\project7\pizzaorder.cpp
+	"includefiles.h"
+	"RawProduct.cpp"
+	"CashierDetails.cpp"
+	"MenuSideProduct.cpp"
+	"MenuPizzaProduct.cpp"
+

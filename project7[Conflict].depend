@@ -1,0 +1,548 @@
+# depslib dependency file v1.0
+1559884817 source:e:\rohan\project\project7\src\loginone.cpp
+	"loginone.h"
+
+1559886021 e:\rohan\project\project7\include\loginone.h
+
+1559976421 source:e:\rohan\project\project7\src\startup.cpp
+	"startup.h"
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1560247344 e:\rohan\project\project7\include\startup.h
+	"includefiles.h"
+
+1560493500 source:e:\rohan\project\project7\main.cpp
+	"CashierDetails.cpp"
+	"Admin.cpp"
+	"DeliveryBoy.cpp"
+	"startup.h"
+	"Furniture.h"
+	"includefiles.h"
+
+1560495867 e:\rohan\project\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"adminlogin.cpp"
+
+1560494634 source:e:\rohan\project\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1560494634 e:\rohan\project\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1560420988 e:\rohan\project\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1560420988 source:e:\rohan\project\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1560081093 e:\rohan\project\project7\backupcashier.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1560001886 source:l:\mojave\project7\cashierdetails.cpp
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<cctype>
+	<fstream>
+	<iostream>
+	<string.h>
+	<process.h>
+	"cashierlogin.cpp"
+	"BackUpCashier.cpp"
+
+1560000135 l:\mojave\project7\cashierlogin.cpp
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<string>
+	<stdio.h>
+
+1560001957 l:\mojave\project7\backupcashier.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1560000135 source:l:\mojave\project7\cashierlogin.cpp
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<string>
+	<stdio.h>
+
+1559922947 source:l:\mojave\project7\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<string>
+	<stdio.h>
+	"CashierDetails.cpp"
+	"startup.h"
+
+1560001886 l:\mojave\project7\cashierdetails.cpp
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<cctype>
+	<fstream>
+	<iostream>
+	<string.h>
+	<process.h>
+	"cashierlogin.cpp"
+	"BackUpCashier.cpp"
+
+1559976362 l:\mojave\project7\include\startup.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1559884817 source:l:\mojave\project7\src\loginone.cpp
+	"loginone.h"
+
+1559886021 l:\mojave\project7\include\loginone.h
+
+1559976421 source:l:\mojave\project7\src\startup.cpp
+	"startup.h"
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1559886225 source:l:\mojave\project7\admin.cpp
+	<string>
+	<iostream>
+
+1560001897 source:l:\mojave\project7\backupcashier.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1560495867 source:e:\rohan\project\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"adminlogin.cpp"
+
+1560083987 source:e:\rohan\project\project7\backupcashier.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1560084001 e:\rohan\project\project7\restorebackupcashierfile.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1560084001 source:e:\rohan\project\project7\restorebackupcashierfile.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1559886225 source:e:\rohan\project\new folder\project7\admin.cpp
+	<string>
+	<iostream>
+
+1560083987 source:e:\rohan\project\new folder\project7\backupcashier.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1560085108 source:e:\rohan\project\new folder\project7\cashierdetails.cpp
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<cctype>
+	<fstream>
+	<iostream>
+	<string.h>
+	<process.h>
+	"cashierlogin.cpp"
+	"BackUpCashier.cpp"
+	"RestoreBackupCashierfile.cpp"
+
+1560003550 e:\rohan\project\new folder\project7\cashierlogin.cpp
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<string>
+	<stdio.h>
+
+1560083987 e:\rohan\project\new folder\project7\backupcashier.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1560084001 e:\rohan\project\new folder\project7\restorebackupcashierfile.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1560003550 source:e:\rohan\project\new folder\project7\cashierlogin.cpp
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<string>
+	<stdio.h>
+
+1560088405 source:e:\rohan\project\new folder\project7\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<string>
+	<stdio.h>
+	"CashierDetails.cpp"
+	"startup.h"
+	"Furniture.h"
+
+1560085108 e:\rohan\project\new folder\project7\cashierdetails.cpp
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<cctype>
+	<fstream>
+	<iostream>
+	<string.h>
+	<process.h>
+	"cashierlogin.cpp"
+	"BackUpCashier.cpp"
+	"RestoreBackupCashierfile.cpp"
+
+1559976362 e:\rohan\project\new folder\project7\include\startup.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1560084001 source:e:\rohan\project\new folder\project7\restorebackupcashierfile.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+
+1559884817 source:e:\rohan\project\new folder\project7\src\loginone.cpp
+	"loginone.h"
+
+1559886021 e:\rohan\project\new folder\project7\include\loginone.h
+
+1559976421 source:e:\rohan\project\new folder\project7\src\startup.cpp
+	"startup.h"
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1560087365 source:e:\rohan\project\new folder\project7\src\furniture.cpp
+	"Furniture.h"
+
+1560089051 e:\rohan\project\new folder\project7\include\furniture.h
+	<string>
+	<iostream>
+
+1560087054 e:\rohan\project\new folder\project7\furniture.cpp
+	"Furniture.h"
+
+1560494780 e:\rohan\project\project7\include\furniture.h
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560087365 source:e:\rohan\project\project7\src\furniture.cpp
+	"Furniture.h"
+
+1560331002 e:\rohan\project\project7\include\includefiles.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<cctype>
+	<fstream>
+	<string.h>
+	<process.h>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1560247071 source:e:\rohan\project\project7\src\includefiles.cpp
+	"includefiles.h"
+
+1560258215 source:e:\rohan\project\project7\src\dackupandrestore.cpp
+	"dackupandrestore.h"
+
+1560258215 e:\rohan\project\project7\include\dackupandrestore.h
+
+1560257859 source:e:\rohan\project\project7\src\goods.cpp
+	"goods.h"
+
+1560258099 e:\rohan\project\project7\include\goods.h
+
+1560512299 e:\rohan\project\project7\include\backupandrestore.h
+	"includefiles.h"
+
+1560265587 source:e:\rohan\project\project7\src\backupandrestore.cpp
+	"backupandrestore.h"
+
+1560421050 source:e:\rohan\project\project7\adminlogin.cpp
+	"includefiles.h"
+
+1560421050 e:\rohan\project\project7\adminlogin.cpp
+	"includefiles.h"
+
+1560494695 e:\rohan\project\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560494695 source:e:\rohan\project\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560751106 source:c:\users\rohan\google drive\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"AdminLogin.cpp"
+
+1560515082 c:\users\rohan\google drive\project7\include\includefiles.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<cctype>
+	<fstream>
+	<string.h>
+	<process.h>
+	<bits/stdc++.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<ctime>
+	<dirent.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1560608505 c:\users\rohan\google drive\project7\include\backupandrestore.h
+	"includefiles.h"
+
+1560752296 c:\users\rohan\google drive\project7\adminlogin.cpp
+	"includefiles.h"
+
+1560752296 source:c:\users\rohan\google drive\project7\adminlogin.cpp
+	"includefiles.h"
+
+1560749947 source:c:\users\rohan\google drive\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1560781970 c:\users\rohan\google drive\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1560781970 source:c:\users\rohan\google drive\project7\cashierlogin.cpp
+	"includefiles.h"
+
+1560515084 source:c:\users\rohan\google drive\project7\src\backupandrestore.cpp
+	"backupandrestore.h"
+
+1560515084 source:c:\users\rohan\google drive\project7\src\furniture.cpp
+	"Furniture.h"
+
+1560607598 c:\users\rohan\google drive\project7\include\furniture.h
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560515084 source:c:\users\rohan\google drive\project7\src\includefiles.cpp
+	"includefiles.h"
+
+1560515085 source:c:\users\rohan\google drive\project7\src\loginone.cpp
+	"loginone.h"
+
+1560515083 c:\users\rohan\google drive\project7\include\loginone.h
+
+1560515085 source:c:\users\rohan\google drive\project7\src\startup.cpp
+	"startup.h"
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1560515084 c:\users\rohan\google drive\project7\include\startup.h
+	"includefiles.h"
+
+1560685022 source:c:\users\rohan\google drive\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560785319 source:c:\users\rohan\google drive\project7\main.cpp
+	"CashierDetails.cpp"
+	"Admin.cpp"
+	"CustomerDetails.cpp"
+	"DeliveryBoy.cpp"
+	"RawProduct.cpp"
+	"MenuSideProduct.cpp"
+	"startup.h"
+	"Furniture.h"
+	"includefiles.h"
+	"order.h"
+
+1560749947 c:\users\rohan\google drive\project7\cashierdetails.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"cashierlogin.cpp"
+
+1560751106 c:\users\rohan\google drive\project7\admin.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+	"AdminLogin.cpp"
+
+1560685022 c:\users\rohan\google drive\project7\deliveryboy.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560610167 c:\users\rohan\google drive\project7\customerdetails.cpp
+	"includefiles.h"
+
+1560610167 source:c:\users\rohan\google drive\project7\customerdetails.cpp
+	"includefiles.h"
+
+1560785193 c:\users\rohan\google drive\project7\rawproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560785193 source:c:\users\rohan\google drive\project7\rawproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560785943 c:\users\rohan\google drive\project7\menusideproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560785792 source:c:\users\rohan\google drive\project7\menusideproduct.cpp
+	"includefiles.h"
+	"backupandrestore.h"
+
+1560782956 c:\users\rohan\google drive\project7\include\order.h
+
+1560783876 source:c:\users\rohan\google drive\project7\src\order.cpp
+	"order.h"
+	"includefiles.h"
+	"C:\Users\rohan\Google Drive\project7\MenuSideProduct.cpp"
+	"C:\Users\rohan\Google Drive\project7\RawProduct.cpp"
+
